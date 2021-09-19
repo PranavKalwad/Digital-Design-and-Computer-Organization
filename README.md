@@ -1,5 +1,5 @@
 # Digital-Design-and-Computer-Organization
-Implementation of gates and combinational circuits in iverilog
+Implementation of basic gates and combinational circuits in iverilog
 
 a.v:-
 Implementation of AND and OR gate.
