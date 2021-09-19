@@ -27,3 +27,6 @@ testbench file for implementing full adder circuit.
 
 mux2to1.v:-
 2:1 mux implemented in iverilog.
+
+MUX4to1.v:-
+4:1 mux implemented in iverilog.
