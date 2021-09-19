@@ -40,3 +40,11 @@ testbench file for 4:1 mux.
 d1.v:-
 All basic gates implementation.
 
+d2.v:-
+Implmentation of ripple carry adder.
+
+dtestBench.v:-
+testbench file for ripple carry adder.
+
+my_alu.v:-
+16 bit ALU implementation in iverilog. 
