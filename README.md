@@ -24,3 +24,6 @@ Full adder circuit implemented in iverilog.
 
 FullAdderTestbench.v:-
 testbench file for implementing full adder circuit. 
+
+mux2to1.v:-
+2:1 mux implemented in iverilog.
