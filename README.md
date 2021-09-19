@@ -30,3 +30,13 @@ mux2to1.v:-
 
 MUX4to1.v:-
 4:1 mux implemented in iverilog.
+
+testbench2to1:-
+testbench file for 2:1 mux.
+
+testbench4to1.v:-
+testbench file for 4:1 mux.
+
+d1.v:-
+All basic gates implementation.
+
