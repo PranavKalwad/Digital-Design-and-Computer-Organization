@@ -48,3 +48,11 @@ testbench file for ripple carry adder.
 
 my_alu.v:-
 16 bit ALU implementation in iverilog. 
+
+
+tb_alu.v:-
+testbench file for my_alu.v
+
+lib.v:-
+All basic gates implementation
+
