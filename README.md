@@ -56,3 +56,16 @@ testbench file for my_alu.v
 lib.v:-
 All basic gates implementation
 
+up.v:
+3 bit up counter
+
+TB_up.v:
+Testbench file for 3 bit up  counter
+
+down.v:
+3 bit down counter
+
+downP.v:
+Testbench file for 3 bit down counter
+
+
